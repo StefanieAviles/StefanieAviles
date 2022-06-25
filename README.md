@@ -3,7 +3,7 @@
 <img src="Stefanie Aviles.png" alt="b" />
 
 <h3 align="left">Acerca de mi:</h3>
-<p> :ecuador: Ecuatoriana  </p>
+<p> :yellow_circle::large_blue_circle::red_circle: Ecuatoriana  </p>
 <p> :bookmark_tabs: También soy Contadora  </p>
 <p> 🚀Lista para desarrollar</p>
 
